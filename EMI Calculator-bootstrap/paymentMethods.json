@@ -1,0 +1,11 @@
+{
+    "1": {
+        "name": "Paypal"
+    },
+    "2": {
+        "name": "UPI"
+    },
+    "3": {
+        "name": "Cash On Delivery"
+    }
+}

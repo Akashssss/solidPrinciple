@@ -1,0 +1,11 @@
+{
+    "m": {
+        "name": "Monthly"
+    },
+    "q": {
+        "name": "Quarterly"
+    },
+    "y": {
+        "name": "Yearly"
+    }
+}

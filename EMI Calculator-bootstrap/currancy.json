@@ -1,0 +1,11 @@
+{
+    "r": {
+        "name": "Indian rupees"
+    },
+    "d": {
+        "name": "Dollar"
+    },
+    "b":{
+        "name":"Bucks"
+    }
+}
